@@ -2,21 +2,21 @@
     "type": "filament",
     "filament_id": "GFL99",
     "setting_id": "GFSA04",
-    "name": "Generic PETG @Sovol SV08 MAX",
+    "name": "Polymaker PETG @Sovol SV08 MAX@",
     "from": "system",
     "instantiation": "true",
     "inherits": "Generic PETG @System",
     "filament_flow_ratio": ["0.98"],
     "filament_max_volumetric_speed": [
-        "15"
+        "12"
     ],
     "enable_pressure_advance": "1",
-    "pressure_advance": "0.048",
+    "pressure_advance": "0.08",
     "nozzle_temperature_initial_layer": [
-        "265"
+        "275"
     ],
     "nozzle_temperature": [
-        "255"
+        "270"
     ],
     "nozzle_temperature_range_low": [
         "230"
@@ -31,10 +31,10 @@
         "80"
     ],
     "fan_min_speed": [
-        "30"
+        "10"
     ],
     "fan_max_speed": [
-        "50"
+        "40"
     ],
     "fan_cooling_layer_time": [
         "30"
@@ -43,7 +43,7 @@
         "3"
     ],
     "slow_down_layer_time": [
-        "8"
+        "12"
     ],
     "slow_down_min_speed": [
         "10"
@@ -66,6 +66,7 @@
     "filament_z_hop": [
         "0.4"
     ],
+    "dont_slow_down_outer_wall": "1",
     "activate_air_filtration": ["0"],
     "during_print_exhaust_fan_speed": "50",
     "complete_print_exhaust_fan_speed": "50",
