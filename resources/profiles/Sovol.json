@@ -294,36 +294,36 @@
             "sub_path": "filament/Sovol Zero TPU.json"
         },
         {
-            "name": "Generic PLA @Sovol SV08 MAX",
-            "sub_path": "filament/Generic PLA @Sovol SV08 MAX.json"
+            "name": "Generic PLA for Sovol SV08 MAX",
+            "sub_path": "filament/Generic PLA for Sovol SV08 MAX.json"
         },
         {
-            "name": "Generic PLA Silk @Sovol SV08 MAX",
-            "sub_path": "filament/Generic PLA Silk @Sovol SV08 MAX.json"
+            "name": "Generic PLA Silk for Sovol SV08 MAX",
+            "sub_path": "filament/Generic PLA Silk for Sovol SV08 MAX.json"
         },
         {
-            "name": "Generic ABS @Sovol SV08 MAX",
-            "sub_path": "filament/Generic ABS @Sovol SV08 MAX.json"
+            "name": "Generic ABS for Sovol SV08 MAX",
+            "sub_path": "filament/Generic ABS for Sovol SV08 MAX.json"
         },
         {
-            "name": "Generic PETG @Sovol SV08 MAX",
-            "sub_path": "filament/Generic PETG @Sovol SV08 MAX.json"
+            "name": "Generic PETG for Sovol SV08 MAX",
+            "sub_path": "filament/Generic PETG for Sovol SV08 MAX.json"
         },
         {
-            "name": "Polymaker PETG @Sovol SV08 MAX",
-            "sub_path": "filament/Polymaker PETG @Sovol SV08 MAX.json"
+            "name": "Polymaker PETG for Sovol SV08 MAX",
+            "sub_path": "filament/Polymaker PETG for Sovol SV08 MAX.json"
         },
         {
-            "name": "SUNLU PETG @Sovol SV08 MAX",
-            "sub_path": "filament/SUNLU PETG @Sovol SV08 MAX.json"
+            "name": "SUNLU PETG for Sovol SV08 MAX",
+            "sub_path": "filament/SUNLU PETG for Sovol SV08 MAX.json"
         },
         {
-            "name": "Generic TPU @Sovol SV08 MAX",
-            "sub_path": "filament/Generic TPU @Sovol SV08 MAX.json"
+            "name": "Generic TPU for Sovol SV08 MAX",
+            "sub_path": "filament/Generic TPU for Sovol SV08 MAX.json"
         },
         {
-            "name": "Generic PC @Sovol SV08 MAX",
-            "sub_path": "filament/Generic PC @Sovol SV08 MAX.json"
+            "name": "Generic PC for Sovol SV08 MAX",
+            "sub_path": "filament/Generic PC for Sovol SV08 MAX.json"
         }
     ],
     "machine_list": [
